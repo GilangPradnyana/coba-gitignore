@@ -1,1 +1,5 @@
 config.txt
+data/
+
+# semua file yg ber extension exe akan tidak terdeteksi
+*.exe 
